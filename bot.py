@@ -5,7 +5,7 @@ import time
 import random
 from datetime import datetime
 
-BOT_TOKEN = "8467893855:AAGGYjtDLgWqFWolqHRW2a-vo2SNORi7Qb0"
+BOT_TOKEN = "token"
 ADMIN_ID = 5869616880
 REF_LINK = "https://1trade.io/?ref=yZUn2"
 
